@@ -12,3 +12,4 @@
 #https://github.com/mummy003/DAA-2203A51565/blob/main/binary%20search%20using%20bubble%20sort.c
 #https://github.com/mummy003/DAA-2203A51565/blob/main/binary%20search%20using%20selection%20sort.c
 #https://github.com/mummy003/DAA-2203A51565/blob/main/binary%20search%20using%20insertion%20sort.c
+#https://github.com/mummy003/DAA-2203A51565/blob/main/merge%20sort.c
